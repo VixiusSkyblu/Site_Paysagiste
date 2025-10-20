@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gonzalez-espace-vert.fr/sitemap.xml

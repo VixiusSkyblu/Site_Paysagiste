@@ -1,0 +1,56 @@
+========================================
+GONZALEZ ESPACE VERT - SITE WEB
+========================================
+
+FICHIERS À TÉLÉCHARGER SUR O2SWITCH :
+-------------------------------------
+✓ index.html (page principale)
+✓ styles.css (styles du site)
+✓ script.js (interactions)
+✓ sitemap.xml (référencement)
+✓ robots.txt (référencement)
+✓ .htaccess (optimisations)
+
+ÉTAPES D'INSTALLATION :
+----------------------
+1. Connectez-vous à votre cPanel O2Switch
+2. Ouvrez le Gestionnaire de fichiers
+3. Allez dans le dossier "public_html"
+4. Téléchargez TOUS les fichiers listés ci-dessus
+5. Visitez votre site dans un navigateur
+
+RÉFÉRENCEMENT GOOGLE :
+---------------------
+Après la mise en ligne :
+
+1. GOOGLE SEARCH CONSOLE
+   → https://search.google.com/search-console
+   → Ajoutez votre domaine
+   → Soumettez le sitemap.xml
+
+2. GOOGLE MY BUSINESS
+   → https://www.google.com/business/
+   → Créez votre fiche entreprise
+   → Nom : Gonzalez Espace Vert
+   → Lieu : Lanta, 31280
+   → Téléphone : 07 69 89 66 06
+   → Email : julien31280.jbc@gmail.com
+
+3. IMPORTANT : Remplacez "gonzalez-espace-vert.fr" 
+   par votre vrai nom de domaine dans :
+   - sitemap.xml
+   - .htaccess (si vous utilisez HTTPS)
+
+DÉLAI D'APPARITION GOOGLE :
+---------------------------
+2 à 4 semaines après la mise en ligne et 
+la soumission à Google Search Console
+
+SUPPORT O2SWITCH :
+-----------------
+Email : support@o2switch.fr
+Téléphone : 04 44 44 60 40
+
+========================================
+Bon courage ! 🌿
+========================================
